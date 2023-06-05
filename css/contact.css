@@ -1,0 +1,23 @@
+.contact-container {
+    border: 1px solid #ced4da;
+    padding: 20px;
+    width: 54%; /* Ubah nilai width sesuai kebutuhan Anda */
+    margin-top: 30px; /* Tambahkan margin top sebesar 50px */
+    margin-bottom: 20px; /* Tambahkan margin bottom sebesar 20px */
+    margin-left: auto; /* Pusatkan kontainer secara horizontal */
+    margin-right: auto; /* Pusatkan kontainer secara horizontal */
+    background-color: #f8f9fa; /* Ganti dengan warna latar belakang yang diinginkan */
+}
+
+.contact-form,
+.contact-info {
+    margin-bottom: 20px;
+}
+
+.underline-input {
+    border: none;
+    border-bottom: 1px solid #ced4da;
+    border-radius: 0;
+    box-shadow: none;
+    background-color: transparent; /* Set the background color to transparent */
+}
